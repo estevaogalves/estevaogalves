@@ -64,7 +64,7 @@ Utilizo ferramentas de IA como parte do processo de desenvolvimento, mantendo a 
 
 ## 📫 Contato
 
-[LinkedIn](www.linkedin.com/in/estevaoalvesg)
+[LinkedIn](https://www.linkedin.com/in/estevaogalves)
 
 ---
 
