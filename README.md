@@ -8,13 +8,10 @@ Paralelamente, desenvolvo projetos próprios para transformar conhecimento em ex
 
 ## 🚀 Atualmente
 
-* 💻 Desenvolvendo aplicações web e APIs.
-* ⚛️ React e TypeScript no desenvolvimento frontend.
-* 🐍 Python e FastAPI no desenvolvimento backend.
-* 🗄️ PostgreSQL e Supabase para dados e infraestrutura.
-* 🐳 Docker para ambientes de desenvolvimento.
-* 🤖 Desenvolvimento assistido por IA como ferramenta de produtividade.
-* 📚 Aprimorando conhecimentos em arquitetura, segurança, performance e engenharia de software.
+* 💻 Desenvolvendo o **Mova** e o **DevFlow**, aplicações Full Stack com React e FastAPI.
+* 🤖 Usando desenvolvimento assistido por IA como ferramenta de produtividade.
+* 📚 Aprofundando conhecimentos em arquitetura, segurança, performance e engenharia de software.
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas na Estácio.
 
 ## 🛠️ Stack
 
@@ -26,11 +23,11 @@ React · TypeScript · Vite · Tailwind CSS · shadcn/ui
 
 Python · FastAPI · REST APIs
 
-**Database & Backend Services**
+**Banco de dados & serviços**
 
 PostgreSQL · Supabase
 
-**Tools & Infrastructure**
+**Ferramentas & infraestrutura**
 
 Git · GitHub · Docker · Vercel
 
@@ -38,17 +35,23 @@ Git · GitHub · Docker · Vercel
 
 ### Mova
 
-Sistema de gestão para clínicas de nutrição desenvolvido como aplicação Full Stack.
+🚧 Em desenvolvimento · Repositório privado
+
+Sistema de gestão para clínicas de nutrição, desenvolvido como aplicação Full Stack.
 
 **React · TypeScript · FastAPI · PostgreSQL · Supabase · Docker**
 
 ### DevFlow
+
+🚧 Em desenvolvimento · Repositório privado
 
 Sistema interno para gerenciamento de projetos, clientes, tarefas e processos financeiros.
 
 **React · TypeScript · FastAPI · PostgreSQL · Supabase**
 
 ### Service Eletrônica
+
+✅ Entregue a um cliente real · [Ver site](https://service-eletronica-lp.vercel.app) · [Repositório](https://github.com/estevaogalves/Service-Eletronica-LP)
 
 Site institucional desenvolvido para uma assistência técnica de eletrodomésticos.
 
@@ -60,11 +63,11 @@ Gosto de entender o problema antes de escrever código.
 
 Busco construir soluções simples, organizadas e fáceis de manter, considerando arquitetura, segurança, experiência do usuário e evolução do projeto.
 
-Utilizo ferramentas de IA como parte do processo de desenvolvimento, mantendo a validação técnica, as decisões de arquitetura e a qualidade do código como responsabilidades fundamentais do desenvolvimento.
+Uso IA como ferramenta no processo, mas a validação técnica, as decisões de arquitetura e a qualidade do código são responsabilidade minha.
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/estevaogalves)
+[LinkedIn](https://www.linkedin.com/in/estevaoalvesg) · [E-mail](mailto:estevao.galves24@gmail.com)
 
 ---
 
